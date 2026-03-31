@@ -103,7 +103,6 @@ The five tasks offered a practical and integrated learning experience — develo
 * [x] Task 5 case study + prevention tips added
 
 ---
-
 ## 🔗 Important Links
 
 * 📊 **Quiz:** *https://docs.google.com/forms/d/e/1FAIpQLSdzu847Ys1yj7Q6sRNmQiyCZgQkr4GPh3f32W3-cRIPF1DBtw/viewform?usp=dialog*
